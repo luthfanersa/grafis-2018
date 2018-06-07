@@ -2,7 +2,7 @@
 
 * Class B: Group I - Group XIII
 * Class A: Group XIV - Group XXVIII
-* Class C: Group XXIX - Group XXXVII
+* Class C: Group XXIX - Group XXXVI
 
 # Groups
 
@@ -490,10 +490,10 @@ Bicycle
 * (151111086) Luthfan Ersa Kamal
 * (141111075) Muh. Fakeh Zainal A.
 
-
 ### Topic & Description
 
 ### Github Repository
+[https://github.com/luthfanersa/ProjectGrafis] (https://github.com/luthfanersa/ProjectGrafis)
 
 ## Group XXXIII
 
